@@ -1,2 +1,2 @@
 # harvard-architecture
-Computer Architecture Project in Java
+Computer Architecture (Harvard) Project in Java

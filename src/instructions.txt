@@ -1,0 +1,12 @@
+LDI R0 2
+LDI R6 8
+LDI R3 1
+BEQZ R2 R6
+LDI R21 1 ;skip this
+LDI R22 1 ;skip this
+LDI R23 1 ;skip this
+LDI R24 1
+ADD R24 R6
+LDI R29 1
+LDI R30 1
+LDI R31 1
